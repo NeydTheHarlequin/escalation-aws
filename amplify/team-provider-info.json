@@ -17,6 +17,9 @@
       },
       "api": {
         "escalationaws": {}
+      },
+      "storage": {
+        "s3fc2e6f60": {}
       }
     }
   }

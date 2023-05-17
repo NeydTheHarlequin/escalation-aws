@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3fc2e6f60",
+  "policyUUID": "fc2e6f60",
+  "bucketName": "escalationaws19f787e3c20c4e95a85d53681957c1f6",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
